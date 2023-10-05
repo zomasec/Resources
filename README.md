@@ -21,7 +21,7 @@
 - [El-Zero](https://www.youtube.com/@ElzeroWebSchool) (For PHP And Python And SQL)
 - [Ahmed Mohamady](https://youtu.be/xUOO_ek4lCk?si=Natlfwy55v4z6eaV) (For Node JS)
 - [Satr](https://satr.codes/)(New Platform to learn Programming and it's so awesome)
-
+- [API Crash course](https://youtu.be/WXsD0ZgxjRw?si=9ZKZXnpociVck9Lm)
 6. Scripting
 - [Bash](https://youtu.be/2733cRPudvI?si=y0tHbiaqWtChZZ8s)
 - [Python](El-Zero or Codzilla)
