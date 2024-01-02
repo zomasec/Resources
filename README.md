@@ -43,7 +43,7 @@
 1. [Ebrahim Hegazy](https://www.youtube.com/@Zigoo0) This is your monitor here in the field and you should see his live videos  
 2. [Mohammed El-Sayed](https://www.udemy.com/course/web-application-penetration-testing-in-arabic/) (Recommended)
 3. [Cyber Guy](https://www.youtube.com/@CyberGuy1)
-# Note that you should watch them all because no one has all the content
+# Note that you maybe watch them all because no one has all the content
 
 # Network Penetration Testing 
 note that if you will enter this , you must study Active Directory and deep into Networks 
